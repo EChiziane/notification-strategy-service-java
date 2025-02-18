@@ -1,0 +1,13 @@
+package com.buildrun.buildrunstrategyinpractice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BuildrunStrategyInPracticeApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(BuildrunStrategyInPracticeApplication.class, args);
+    }
+
+}
